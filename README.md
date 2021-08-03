@@ -5,8 +5,8 @@ I'm Joaquim Matheus from Brazil. I really enjoy learning languages like Python a
 
 ## Skills
 
-🐍 Python
-💻 HTML, CSS, JS
+* 🐍 Python
+* 💻 HTML, CSS, JS
 
 
 
