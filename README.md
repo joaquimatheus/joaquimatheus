@@ -1,12 +1,14 @@
 ![Cyber Security and Development](https://github.com/joaquimatheus/joaquimatheus/blob/main/nostalgia.gif)
 
-### Hi there 👋, I'm Joaquim Matheus
-
-#### Cyber Security and Development
-
+### Hi, I'm Joaquim Matheus
 I'm Joaquim Matheus from Brazil. I really enjoy learning languages like Python and Javascript. I also enjoy learning CyberSecurity focused on Web Hacking and I'm a Linux enthusiast
 
-Skills: JS / HTML / CSS / PYTHON
+## Skills
+
+🐍 Python
+💻 HTML, CSS, JS
+
+
 
 - 🌱 I’m currently learning Python and JS 
 - 👯 I’m looking to collaborate on making a company more safe and develop systems secure 
