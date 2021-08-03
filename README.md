@@ -8,6 +8,7 @@ I'm Joaquim Matheus from Brazil. I really enjoy learning languages like Python a
 * 💻 HTML, CSS, JS
 
 
+----
 - 🌱 I’m currently learning Python and JS 
 - 👯 I’m looking to collaborate on making a company more safe and develop systems secure 
 - 💬 Ask me about CyberSecurity 
