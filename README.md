@@ -4,10 +4,8 @@
 I'm Joaquim Matheus from Brazil. I really enjoy learning languages like Python and Javascript. I also enjoy learning CyberSecurity focused on Web Hacking and I'm a Linux enthusiast
 
 ## Skills
-
 * 🐍 Python
 * 💻 HTML, CSS, JS
-
 
 
 - 🌱 I’m currently learning Python and JS 
