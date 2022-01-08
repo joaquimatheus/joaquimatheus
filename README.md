@@ -8,11 +8,10 @@ Now I learning MYSQL.
 ## Skills
 * 🐍 Python
 * 💻 HTML, CSS, JS
-* 🐘 PHP
 * 🏦 MYSQL
 
 ----
-- 🌱 I’m currently learning Python, PHP, MYSQL and JS 
+- 🌱 I’m currently learning Python, MYSQL and JS 
 - 👯 I’m looking to collaborate on making a company more safe and develop systems secure 
 - 💬 Ask me about CyberSecurity 
 - 📫 How to reach me: Linkedin and Instagram 
