@@ -3,7 +3,7 @@
 ### Hi, I'm Joaquim Matheus
 I'm Joaquim Matheus from Brazil. I really enjoy learning languages like Javascript, TypeScript and Node. I also enjoy learning CyberSecurity focused on Web Hacking and I'm a Linux enthusiast.
 
-Now I learning MYSQL.
+Now I learning Postgres and MySQL.
 
 ## Skills
 * 🐍 TypeScript, JavaScript and NodeJS
