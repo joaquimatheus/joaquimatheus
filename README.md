@@ -12,7 +12,7 @@ I'm Joaquim Matheus from Brazil. I really enjoy learning languages like Javascri
 * REST API
 * SQL
 ### Frontend
-* ⚛️ React
+* React
 * CSS Grid, Flexbox
 * Bootstrap
 ### Networks
