@@ -38,10 +38,7 @@ I'm Joaquim Matheus from Brazil. I really enjoy learning languages like Javascri
 ----
 - 🌱 I’m currently learning React, TypeScript and NodeJS 
 - 💬 Ask me about Web Development
-- 📫 How to reach me: Linkedin and Instagram 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' fill="white" height='40'>](https://github.com/joaquimatheus)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' fill="white" height='40'>](https://www.linkedin.com/in/joaquim-matheus-16a82a1b8/)  
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/joaquimatheus/) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquimatheus)](https://github.com/anuraghazra/github-readme-stats)
 
